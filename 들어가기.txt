@@ -50,4 +50,4 @@ iOS Running app on iPhone
 expo --version >> 6.3.2
 node --version >> v12.10.0
 yarn --version >> 1.22.19
-/////노트북과 핸드폰은 같은 네트워크 사용해야 하는 듯?
+/////노트북과 핸드폰은 같은 네트워크 사용
